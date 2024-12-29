@@ -1,8 +1,8 @@
-name: currency_picker
+name: currency_picker_nicolaikol
 description: A flutter package to select a currency from a list of currencies.
 
-homepage: https://github.com/Daniel-Ioannou
-repository: https://github.com/Daniel-Ioannou/flutter_currency_picker
+homepage: https://github.com/nicolaikol
+repository: https://github.com/nicolaikol/flutter_currency_picker
 
 version: 2.0.21
 

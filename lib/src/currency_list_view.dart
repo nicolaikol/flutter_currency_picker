@@ -1,4 +1,4 @@
-import 'package:currency_picker/src/extensions.dart';
+import 'package:currency_picker_nicolaikol/src/extensions.dart';
 import 'package:flutter/material.dart';
 
 import 'currency.dart';
